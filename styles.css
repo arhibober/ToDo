@@ -1,0 +1,52 @@
+html {overflow-y: scroll;}
+body { 
+font-family: Verdana, Helvetica, Arial, sans-serif; 
+font-size: 12px;
+margin: 0px;
+padding: 0px;
+background: #fafafd; 
+}
+p {
+margin: 10px 20px;
+font-size: 14px;
+color:#374591;
+}
+.table{
+border-collapse: collapse; border-spacing: 0; border: 1px solid #fff; font-size: 14px; margin: 0 auto;
+}
+th {
+background:#506fbd; 
+padding:5px; border-right:1px solid #fff; border-bottom:1px solid #fff; color:#fff;
+
+}
+
+td {
+background:#e3e7fb; 
+padding:5px; border-right:1px solid #fff; color:#000;border-bottom:1px solid #fff; 
+
+}
+input{
+margin: 0 20;
+}
+.header {
+margin-top: 20px;
+text-align: center;
+font-size: 18px;
+color:#374591;
+}
+
+.header1 {
+margin: 20px 20px;
+font-size: 16px;
+color:#374591;
+}
+
+#years, #monthes, #hours, #minutes, #long, #deal_text{
+margin: 0px 20px;
+}
+.calendar{
+width: 300px; 
+margin: 0 20;
+font-size: 14px;
+}
+
